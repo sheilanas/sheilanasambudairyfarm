@@ -1,0 +1,48 @@
+.backgroundblue{
+  background-color:blue;
+}
+.backgroundgreen{
+  background-color:yellow;
+}
+.backgroundmaroon{
+  background-color:yellow;
+}
+.backgroundpurple{
+  background-color:yellow;
+}
+
+#s1{
+  color:blue;
+}
+#s2{
+  color:blue;
+}
+#s3{
+  color:purple;
+}
+#s4{
+  color:green;
+}
+#s4{
+  color:blue;
+}
+
+  body{
+    font-family:helvetica;
+  font-size:50px;
+  text-align:center;
+  background color:violet;
+  font-style:italic;
+  font-weight:900;
+}
+<link href="sheila.html"rel="stylesheet">
+
+p{
+  font-size:25px;
+  background-color:green;
+}
+
+nav a{
+  background-color:indigo;
+  background-position:centre;
+}
